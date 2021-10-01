@@ -11,3 +11,6 @@
 IF (WIN32)
 	FIND_PATH( FREEIMAGE_INCLUDE_PATH FreeImage.h
 		${PROJECT_SOURCE_DIR}/extern/FreeImage
+		DOC "The directory where FreeImage.h resides")
+	FIND_LIBRARY( FREEIMAGE_LIBRARY
+		NAMES FreeImage freeimage
