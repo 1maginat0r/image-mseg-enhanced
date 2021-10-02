@@ -23,3 +23,11 @@ ELSE (WIN32)
 		/usr/local/include
 		/sw/include
 		/opt/local/include
+		DOC "The directory where FreeImage.h resides")
+	FIND_LIBRARY( FREEIMAGE_LIBRARY
+		NAMES FreeImage freeimage
+		PATHS
+		/usr/lib64
+		/usr/lib
+		/usr/local/lib64
+		/usr/local/lib
