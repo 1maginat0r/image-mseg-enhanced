@@ -17,3 +17,6 @@ IF (WIN32)
 		PATHS
 		${PROJECT_SOURCE_DIR}/FreeImage
 		DOC "The FreeImage library")
+ELSE (WIN32)
+	FIND_PATH( FREEIMAGE_INCLUDE_PATH FreeImage.h
+		/usr/include
