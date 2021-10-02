@@ -20,3 +20,4 @@ IF (WIN32)
 ELSE (WIN32)
 	FIND_PATH( FREEIMAGE_INCLUDE_PATH FreeImage.h
 		/usr/include
+		/usr/local/include
