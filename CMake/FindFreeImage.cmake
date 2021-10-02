@@ -14,3 +14,6 @@ IF (WIN32)
 		DOC "The directory where FreeImage.h resides")
 	FIND_LIBRARY( FREEIMAGE_LIBRARY
 		NAMES FreeImage freeimage
+		PATHS
+		${PROJECT_SOURCE_DIR}/FreeImage
+		DOC "The FreeImage library")
