@@ -31,3 +31,9 @@ ELSE (WIN32)
 		/usr/lib
 		/usr/local/lib64
 		/usr/local/lib
+		/sw/lib
+		/opt/local/lib
+		DOC "The FreeImage library")
+ENDIF (WIN32)
+
+SET(FREEIMAGE_LIBRARIES ${FREEIMAGE_LIBRARY})
