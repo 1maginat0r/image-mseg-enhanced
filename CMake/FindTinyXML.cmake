@@ -1,2 +1,2 @@
 #
-# Try to fin
+# Try to find th
