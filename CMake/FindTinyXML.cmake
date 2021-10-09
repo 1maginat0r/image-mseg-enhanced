@@ -1,2 +1,2 @@
 #
-# Try to find the FreeImage l
+# Try to find the FreeImage lib
