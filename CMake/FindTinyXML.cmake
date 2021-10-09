@@ -1,2 +1,2 @@
 #
-# Try to find the Free
+# Try to find the FreeImag
