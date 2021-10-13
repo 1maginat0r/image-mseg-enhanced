@@ -1,2 +1,2 @@
 #
-# Try to find the FreeImage library and inc
+# Try to find the FreeImage library and includ
