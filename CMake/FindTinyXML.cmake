@@ -1,2 +1,2 @@
 #
-# Try to find the FreeImage library and includ
+# Try to find the FreeImage library and include pa
