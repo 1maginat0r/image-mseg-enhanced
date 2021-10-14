@@ -1,3 +1,3 @@
 #
 # Try to find the FreeImage library and include path.
-# Once done 
+# Once done thi
