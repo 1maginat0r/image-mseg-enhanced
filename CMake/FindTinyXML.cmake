@@ -1,3 +1,3 @@
 #
 # Try to find the FreeImage library and include path.
-# Once done this will def
+# Once done this will define
