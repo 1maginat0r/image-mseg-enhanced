@@ -3,4 +3,4 @@
 # Once done this will define
 #
 # FREEIMAGE_FOUND
-# FREE
+# FREEIM
