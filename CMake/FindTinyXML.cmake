@@ -3,4 +3,4 @@
 # Once done this will define
 #
 # FREEIMAGE_FOUND
-# FREEIMAGE_INCL
+# FREEIMAGE_INCLUDE_
