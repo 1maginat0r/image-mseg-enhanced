@@ -3,4 +3,4 @@
 # Once done this will define
 #
 # FREEIMAGE_FOUND
-# FREEIMAGE_INCLUDE_PAT
+# FREEIMAGE_INCLUDE_PATH
