@@ -8,4 +8,4 @@
 # 
 
 FIND_PATH( TINYXML_INCLUDE_PATH tinyxml.h
-	/usr/incl
+	/usr/inclu
