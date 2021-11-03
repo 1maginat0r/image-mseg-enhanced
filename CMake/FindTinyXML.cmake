@@ -9,4 +9,4 @@
 
 FIND_PATH( TINYXML_INCLUDE_PATH tinyxml.h
 	/usr/include
-	/usr/local/inc
+	/usr/local/include
