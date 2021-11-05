@@ -11,4 +11,4 @@ FIND_PATH( TINYXML_INCLUDE_PATH tinyxml.h
 	/usr/include
 	/usr/local/include
 	/sw/include
-	/
+	/opt
