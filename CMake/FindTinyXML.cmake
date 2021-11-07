@@ -12,4 +12,4 @@ FIND_PATH( TINYXML_INCLUDE_PATH tinyxml.h
 	/usr/local/include
 	/sw/include
 	/opt/local/include
-	DOC "The directory where TinyXML
+	DOC "The directory where TinyXML.h 
