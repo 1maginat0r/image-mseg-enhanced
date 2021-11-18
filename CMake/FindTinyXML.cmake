@@ -14,4 +14,4 @@ FIND_PATH( TINYXML_INCLUDE_PATH tinyxml.h
 	/opt/local/include
 	DOC "The directory where TinyXML.h resides")
 FIND_LIBRARY( TINYXML_LIBRARY
-	
+	NAME
