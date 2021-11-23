@@ -16,4 +16,5 @@ FIND_PATH( TINYXML_INCLUDE_PATH tinyxml.h
 FIND_LIBRARY( TINYXML_LIBRARY
 	NAMES TinyXML tinyxml
 	PATHS
-	/usr/lib6
+	/usr/lib64
+	
