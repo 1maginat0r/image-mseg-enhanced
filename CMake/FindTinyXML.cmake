@@ -18,4 +18,4 @@ FIND_LIBRARY( TINYXML_LIBRARY
 	PATHS
 	/usr/lib64
 	/usr/lib
-	/usr
+	/usr/lo
