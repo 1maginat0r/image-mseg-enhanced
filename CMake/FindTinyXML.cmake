@@ -17,4 +17,4 @@ FIND_LIBRARY( TINYXML_LIBRARY
 	NAMES TinyXML tinyxml
 	PATHS
 	/usr/lib64
-	/
+	/us
