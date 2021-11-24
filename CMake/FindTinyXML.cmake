@@ -19,3 +19,4 @@ FIND_LIBRARY( TINYXML_LIBRARY
 	/usr/lib64
 	/usr/lib
 	/usr/local/lib64
+	/u
