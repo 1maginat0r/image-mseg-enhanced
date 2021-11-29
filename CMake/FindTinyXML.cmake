@@ -21,4 +21,4 @@ FIND_LIBRARY( TINYXML_LIBRARY
 	/usr/local/lib64
 	/usr/local/lib
 	/sw/lib
-	/op
+	/opt/l
