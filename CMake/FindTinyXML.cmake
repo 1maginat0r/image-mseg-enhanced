@@ -22,3 +22,4 @@ FIND_LIBRARY( TINYXML_LIBRARY
 	/usr/local/lib
 	/sw/lib
 	/opt/local/lib
+	DO
