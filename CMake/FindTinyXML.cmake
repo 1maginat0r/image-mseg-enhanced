@@ -22,4 +22,4 @@ FIND_LIBRARY( TINYXML_LIBRARY
 	/usr/local/lib
 	/sw/lib
 	/opt/local/lib
-	DOC "The TinyXML librar
+	DOC "The TinyXML library
