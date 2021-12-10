@@ -23,3 +23,5 @@ FIND_LIBRARY( TINYXML_LIBRARY
 	/sw/lib
 	/opt/local/lib
 	DOC "The TinyXML library")
+
+S
