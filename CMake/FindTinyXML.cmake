@@ -24,4 +24,4 @@ FIND_LIBRARY( TINYXML_LIBRARY
 	/opt/local/lib
 	DOC "The TinyXML library")
 
-SET(
+SET(T
