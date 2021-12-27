@@ -3,3 +3,5 @@ CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 PROJECT(MSEG)
 
 ADD_LIBRARY(msegio SHARED msegio.cpp)
+
+ADD_LIBRARY(msegcore SHARED msegcore.cpp)
