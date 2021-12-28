@@ -9,3 +9,5 @@ ADD_LIBRARY(msegcore SHARED msegcore.cpp)
 ADD_LIBRARY(msegstd SHARED msegstd.cpp)
 
 ADD_LIBRARY(msegfastedge SHARED msegfastedge.cpp)
+
+ADD_LIBRARY(msegfast SHARED msegfast.cpp)
