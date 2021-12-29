@@ -19,3 +19,7 @@ ADD_LIBRARY(msegslow SHARED msegslow.cpp)
 ADD_EXECUTABLE(msegcli msegcli.cpp)
 
 ADD_EXECUTABLE(msegcli_edge msegcli_edge.cpp)
+
+ADD_EXECUTABLE(msegcli_edge_svm msegcli_edge_svm.cpp)
+
+ADD_EXECUTABLE(msegcli_tex msegcli_tex.cpp)
