@@ -23,3 +23,7 @@ ADD_EXECUTABLE(msegcli_edge msegcli_edge.cpp)
 ADD_EXECUTABLE(msegcli_edge_svm msegcli_edge_svm.cpp)
 
 ADD_EXECUTABLE(msegcli_tex msegcli_tex.cpp)
+
+ADD_EXECUTABLE(msegcli_svm msegcli_svm.cpp)
+
+ADD_EXECUTABLE(obia-class-export-svm obia-class-export-svm.cpp)
