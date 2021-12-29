@@ -11,3 +11,9 @@ ADD_LIBRARY(msegstd SHARED msegstd.cpp)
 ADD_LIBRARY(msegfastedge SHARED msegfastedge.cpp)
 
 ADD_LIBRARY(msegfast SHARED msegfast.cpp)
+
+ADD_LIBRARY(msegfastest SHARED msegfastest.cpp)
+
+ADD_LIBRARY(msegslow SHARED msegslow.cpp)
+
+ADD_EXECUTABLE(msegcli msegcli.cpp)
