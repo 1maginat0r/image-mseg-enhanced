@@ -27,3 +27,9 @@ ADD_EXECUTABLE(msegcli_tex msegcli_tex.cpp)
 ADD_EXECUTABLE(msegcli_svm msegcli_svm.cpp)
 
 ADD_EXECUTABLE(obia-class-export-svm obia-class-export-svm.cpp)
+
+ADD_EXECUTABLE(obia-utils-confmatrix obia-utils-confmatrix.cpp)
+
+SET(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/CMake/")
+
+SET(CMAKE_BUILD_TYPE "Release")
