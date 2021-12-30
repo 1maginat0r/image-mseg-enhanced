@@ -33,3 +33,5 @@ ADD_EXECUTABLE(obia-utils-confmatrix obia-utils-confmatrix.cpp)
 SET(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/CMake/")
 
 SET(CMAKE_BUILD_TYPE "Release")
+
+FIND_PACKAGE(FreeImage REQUIRED)
