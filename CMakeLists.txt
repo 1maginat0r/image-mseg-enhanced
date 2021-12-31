@@ -43,3 +43,5 @@ INCLUDE_DIRECTORIES(${TINYXML_INCLUDE_PATH})
 TARGET_LINK_LIBRARIES (msegcli msegio msegcore msegstd ${FREEIMAGE_LIBRARY} ${TINYXML_LIBRARY})
 
 TARGET_LINK_LIBRARIES (msegcli_edge msegio msegcore msegfastedge ${FREEIMAGE_LIBRARY} ${TINYXML_LIBRARY})
+
+TARGET_LINK_LIBRARIES (msegcli_edge_svm msegio msegcore msegfastedge ${FREEIMAGE_LIBRARY} ${TINYXML_LIBRARY})
