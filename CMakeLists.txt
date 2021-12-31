@@ -47,3 +47,7 @@ TARGET_LINK_LIBRARIES (msegcli_edge msegio msegcore msegfastedge ${FREEIMAGE_LIB
 TARGET_LINK_LIBRARIES (msegcli_edge_svm msegio msegcore msegfastedge ${FREEIMAGE_LIBRARY} ${TINYXML_LIBRARY})
 
 TARGET_LINK_LIBRARIES (msegcli_tex msegio msegcore msegslow msegstd ${FREEIMAGE_LIBRARY} ${TINYXML_LIBRARY})
+
+TARGET_LINK_LIBRARIES (msegcli_svm msegio msegcore msegstd ${FREEIMAGE_LIBRARY} ${TINYXML_LIBRARY})
+
+TARGET_LINK_LIBRARIES (obia-class-export-svm msegio msegcore ${FREEIMAGE_LIBRARY} ${TINYXML_LIBRARY})
