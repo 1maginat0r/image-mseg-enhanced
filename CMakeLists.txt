@@ -51,3 +51,7 @@ TARGET_LINK_LIBRARIES (msegcli_tex msegio msegcore msegslow msegstd ${FREEIMAGE_
 TARGET_LINK_LIBRARIES (msegcli_svm msegio msegcore msegstd ${FREEIMAGE_LIBRARY} ${TINYXML_LIBRARY})
 
 TARGET_LINK_LIBRARIES (obia-class-export-svm msegio msegcore ${FREEIMAGE_LIBRARY} ${TINYXML_LIBRARY})
+
+# The version number.
+SET (MSEG_VERSION_MAJOR "0")
+SET (MSEG_VERSION_MINOR "9")
