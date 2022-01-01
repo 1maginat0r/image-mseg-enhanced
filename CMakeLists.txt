@@ -60,3 +60,9 @@ SET(MSEG_VERSION_PATCH "5")
 #-----------------------------------------------------------------------------
 # MSEG version number.
 SET(MSEG_VERSION_STRING "${MSEG_VERSION_MAJOR}.${MSEG_VERSION_MINOR}.${MSEG_VERSION_PATCH}")
+
+#IF(CMAKE_SIZEOF_VOID_P EQUAL 4)
+#    SET(LIB_SUFFIX "")
+#ELSE(CMAKE_SIZEOF_VOID_P EQUAL 4)
+#    SET(LIB_SUFFIX 64)
+#ENDIF(CMAKE_SIZEOF_VOID_P EQUAL 4)
