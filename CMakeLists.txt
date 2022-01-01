@@ -58,3 +58,5 @@ SET (MSEG_VERSION_MINOR "9")
 SET(MSEG_VERSION_PATCH "5")
 
 #-----------------------------------------------------------------------------
+# MSEG version number.
+SET(MSEG_VERSION_STRING "${MSEG_VERSION_MAJOR}.${MSEG_VERSION_MINOR}.${MSEG_VERSION_PATCH}")
