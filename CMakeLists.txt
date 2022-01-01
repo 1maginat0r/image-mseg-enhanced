@@ -55,3 +55,6 @@ TARGET_LINK_LIBRARIES (obia-class-export-svm msegio msegcore ${FREEIMAGE_LIBRARY
 # The version number.
 SET (MSEG_VERSION_MAJOR "0")
 SET (MSEG_VERSION_MINOR "9")
+SET(MSEG_VERSION_PATCH "5")
+
+#-----------------------------------------------------------------------------
