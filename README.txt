@@ -1,1 +1,1 @@
-Welcome to Image-mseg-enhanced v0.9.5\n\n
+Welcome to Image-mseg-enhanced v0.9.5\n\nImage
