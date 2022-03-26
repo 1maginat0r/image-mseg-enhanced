@@ -1,1 +1,1 @@
-Welcome to Image-mseg-enhanced v0.9.5\n\nImage-mseg-enhanced is a generic region-based multi-scale image segmentation algorithm, refined specifically for remote sensing imagery.\n\nThe algorithm can be utilized as a low-level processing element 
+Welcome to Image-mseg-enhanced v0.9.5\n\nImage-mseg-enhanced is a generic region-based multi-scale image segmentation algorithm, refined specifically for remote sensing imagery.\n\nThe algorithm can be utilized as a low-level processing element of a 
